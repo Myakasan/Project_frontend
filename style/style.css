@@ -20,13 +20,10 @@ header{
 .banner {
   margin: 0 auto;
 
-
-
-/*NAVBAR*/
-.nav-link-connexion {}
-
+}
 /*FOOTER*/
-footer {
+
+footer{
   width: auto;
   margin: 0 auto;
   color: white;

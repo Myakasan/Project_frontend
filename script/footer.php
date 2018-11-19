@@ -1,6 +1,3 @@
-
-
-<footer>
 <div class="row">
   <div class="col">
     <img src="#" alt="Logo">
@@ -33,4 +30,3 @@
         <span id="fb"> <a href="#"> <i class="fab fa-facebook-square"></i> </a>  </span> </p>
   </div>
 </div>
-</footer>
