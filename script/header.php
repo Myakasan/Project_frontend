@@ -1,3 +1,3 @@
 <header>
-<img src="./img/header.png" alt="">
+<img class="img-fluid" src="./img/header.png" alt="">
 </header>

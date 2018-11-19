@@ -11,7 +11,7 @@
 </head>
 
 <body>
-  <header class="container-fluid">
+  <header class="img-fluid container-fluid">
     <?php include('./script/header.php'); ?>
   </header>
 
