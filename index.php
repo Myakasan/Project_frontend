@@ -15,6 +15,7 @@
   </header>
 
   <nav>
+    <?php include('./script/nav.php'); ?>
   </nav>
 
 
