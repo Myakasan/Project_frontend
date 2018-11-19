@@ -11,11 +11,11 @@
 </head>
 
 <body>
-  <header class"container-fluid">
+  <header class="container-fluid">
     <?php include('./script/header.php'); ?>
   </header>
 
-  <nav class"container-fluid">
+  <nav class="container-fluid">
     <?php include('./script/nav.php'); ?>
   </nav>
 
