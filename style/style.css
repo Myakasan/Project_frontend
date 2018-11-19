@@ -40,13 +40,32 @@ footer div {
 
 fab{
   display: inline-block;
+  margin-right: 10px;
 }
 
-#twitter{
+#twitter a{
   text-decoration: none;
   color: white;
-  font-size: 24px;
+  font-size: 34px;
 }
-#twitter:hover{
+#twitter a:hover{
+  color: #f2ff23;
+}
+
+#insta a{
+  text-decoration: none;
+  color: white;
+  font-size: 34px;
+}
+#insta a:hover{
+  color: #f2ff23;
+}
+
+#fb a{
+  text-decoration: none;
+  color: white;
+  font-size: 34px;
+}
+#fb a:hover{
   color: #f2ff23;
 }
