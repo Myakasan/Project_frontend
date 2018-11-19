@@ -1,19 +1,29 @@
 /*GENERAL*/
+* {
 
+}
 
 body {
-  margin: 0;
-  padding: 0;
+margin: 0 auto;
 }
 
 /*HEADER*/
 header{
+  margin-left: 0;
+  margin-right: 0;
   background-color: #f2ff23;
+
 }
+
+
+
+.banner {
+  margin: 0 auto;
+}
+
 /*NAVBAR*/
-.nav-link-connexion{
-  
-}
+.nav-link-connexion {}
+
 /*FOOTER*/
 footer {
   width: auto;
