@@ -1,26 +1,29 @@
 /*GENERAL*/
-body{
+
+
+body {
   margin: 0;
   padding: 0;
 }
 
 /*HEADER*/
-
+header{
+  background-color: #f2ff23;
+}
 /*NAVBAR*/
-
-
-
+.nav-link-connexion{
+  
+}
 /*FOOTER*/
-footer{
+footer {
   width: auto;
   margin: 0 auto;
   color: white;
   background-color: grey;
   padding-top: 15px;
-
 }
 
-footer div{
+footer div {
   margin: 0 auto;
   align-content: center;
   text-align: center;
