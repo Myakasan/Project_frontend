@@ -25,8 +25,8 @@
     <p>copyright</p>
   </div>
   <div class="col">
-    <p> <span id="twitter"> <a href="#"> <i class="fab fa-twitter"></i> </a>  </span>
-        <span id="insta"><a href="#"> <i class="fab fa-instagram"></i> </a>  </span>
-        <span id="fb"> <a href="#"> <i class="fab fa-facebook-square"></i> </a>  </span> </p>
+    <p> <span id="twitter"> <a href="#"> <i class="fab fa-twitter"></i> </a> </span>
+         <span id="insta"><a href="#"> <i class="fab fa-instagram"></i> </a> </span>
+         <span id="fb"> <a href="#"> <i class="fab fa-facebook-square"></i> </a> </span></p>
   </div>
 </div>

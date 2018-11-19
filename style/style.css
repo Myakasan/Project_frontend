@@ -5,6 +5,7 @@
 
 body {
 margin: 0 auto;
+overflow: hidden;
 }
 
 /*HEADER*/
@@ -39,4 +40,13 @@ footer div {
 
 fab{
   display: inline-block;
+}
+
+#twitter{
+  text-decoration: none;
+  color: white;
+  font-size: 24px;
+}
+#twitter:hover{
+  color: #f2ff23;
 }
