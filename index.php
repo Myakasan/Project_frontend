@@ -10,7 +10,7 @@
 </head>
 
 <body>
-  <header>
+  <header class="container">
     <?php include('./script/header.php'); ?>
   </header>
 
