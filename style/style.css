@@ -38,6 +38,9 @@ footer div {
   text-align: center;
 }
 
+footer .col{
+}
+
 fab{
   display: inline-block;
   margin-right: 10px;
