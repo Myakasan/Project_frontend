@@ -37,7 +37,14 @@ a.navbar-brand{
 .nav-link{
   font-family: 'Titillium Web', sans-serif;
 }
-
+.dropdown-item{
+  color: white;
+  font-family: 'Titillium Web', sans-serif;
+}
+.dropdown-item:hover{
+  background-color: black;
+  color: white;
+}
 .banner {
   margin: 0 auto;
 
