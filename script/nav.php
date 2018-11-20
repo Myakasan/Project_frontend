@@ -42,11 +42,11 @@
           <a class="dropdown-item" href="#">Pantalon</a>
         </div>
       </li>
-      <li class="nav-item float-right">
+      <li class="nav-item justify-content-end">
         <a class="nav-link" href="#"><i class="fas fa-lock"></i> Connexion</a>
       </li>
     </li>
-    <li class="nav-item float-right">
+    <li class="nav-item justify-content-end">
       <a class="nav-link" href="#"><i class="fas fa-shopping-cart"></i> Panier</a>
     </li>
     </ul>

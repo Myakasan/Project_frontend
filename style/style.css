@@ -93,7 +93,7 @@ footer .row{
   font-size: 40px;
 }
 #twitter a:hover{
-  color: #f2ff23;
+  color: lightskyblue;
 }
 
 #insta a{
@@ -102,7 +102,7 @@ footer .row{
   font-size: 40px;
 }
 #insta a:hover{
-  color: #f2ff23;
+  color: lightcoral;
 }
 
 #fb a{
@@ -111,5 +111,13 @@ footer .row{
   font-size: 40px;
 }
 #fb a:hover{
-  color: #f2ff23;
+  color: royalblue;
+}
+div .col a{
+  text-decoration: none;
+  color: white;
+}
+
+div .col a:hover{
+  color: red;
 }
