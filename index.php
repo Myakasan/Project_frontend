@@ -15,7 +15,7 @@
     <?php include('./script/header.php'); ?>
   </header>
 
-  <nav class="container-fluid">
+  <nav class="">
     <?php include('./script/nav.php'); ?>
   </nav>
 
