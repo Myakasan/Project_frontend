@@ -1,5 +1,6 @@
 <div class="row">
   <div class="col">
+    <h3>L33T SH0PPING C'EST QUOI ?!</h3>
     <img class="logofoot" src="./img/unidead.png" alt="Logo">
     <p>A la recherche d'un cadeau Original, Insolite et à Tendance Geek ?
        L33T SH0PPING vous propose depuis plus de 10 ans une large gamme d'articles
@@ -18,18 +19,16 @@
     <p> <span id="twitter"> <a href="#"> <i class="fab fa-twitter"></i> </a> </span>
          <span id="insta"><a href="#"> <i class="fab fa-instagram"></i> </a> </span>
          <span id="fb"> <a href="#"> <i class="fab fa-facebook-square"></i> </a> </span></p>
+         <p>
+           <a href="#">A propos de nous </a> -
+           <a href="#">Mentions légales</a>
+         </p>
   </div>
 </div>
 
 <div class="row">
   <div class="col">
-    <p>&#169;Copyright by Aloïs Ressort & Etienne Gendron - Since 2018 - 2019</p>
-  </div>
-  <div class="col">
-    <p>
-      <a href="#">A propos de nous </a> -
-      <a href="#">Mentions légales</a>
-    </p>
+    <p class="text-center">&#169;Copyright by Aloïs Ressort & Etienne Gendron - Since 2018 - 2019</p>
   </div>
 
 </div>
