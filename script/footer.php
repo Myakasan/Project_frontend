@@ -22,7 +22,7 @@
 
 <div class="row">
   <div class="col">
-    <p>copyright</p>
+    <p>&#169;Copyright by Aloïs Ressort & Etienne Gendron - Since 2018 - 2019</p>
   </div>
   <div class="col">
     <p> <span id="twitter"> <a href="#"> <i class="fab fa-twitter"></i> </a> </span>
