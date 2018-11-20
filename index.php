@@ -19,7 +19,7 @@
     <?php include('./script/nav.php'); ?>
   </nav>
 
-
+<hr>
   <div class="container">
 
     <div id="carouselExampleIndicators" class="carousel slide" data-ride="carousel">
@@ -49,7 +49,7 @@
     </a>
   </div>
   </div>
-
+<hr>
 
 
   <footer class="class">
