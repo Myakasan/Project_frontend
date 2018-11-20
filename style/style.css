@@ -26,7 +26,13 @@ header{
 
 }
 
+a.navbar-brand{
+  font-family: 'Permanent Marker', cursive;
+}
 
+.nav-link{
+  font-family: 'Titillium Web', sans-serif;
+}
 
 .banner {
   margin: 0 auto;
