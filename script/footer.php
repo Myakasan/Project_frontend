@@ -9,10 +9,10 @@
   </div>
   <div class="col">
     <h3>Contactez-Nous !</h3>
-    <p><i class="fas fa-envelope"></i> Mail: <a href="mailto:contact@l33tshopping.com?subject=feedback">contact@l33tshopping.com</a> <br>
-      <i class="fas fa-mobile-alt"></i> Phone: +33 (0)6 12 34 56 78 <br>
-      <i class="fas fa-fax"> </i> Fax: +33 (0)4 77 12 34 56
-    </p>
+    <p><i class="fas fa-envelope"></i> Mail: <a href="mailto:contact@l33tshopping.com?subject=feedback">contact@l33tshopping.com</a></p>
+    <p>  <i class="fas fa-mobile-alt"></i> Phone: +33 (0)6 12 34 56 78 </p>
+    <p>  <i class="fas fa-fax"> </i> Fax: +33 (0)4 77 12 34 56</p>
+
   </div>
 
   <div class="col">
@@ -21,8 +21,8 @@
          <span id="insta"><a href="#"> <i class="fab fa-instagram"></i> </a> </span>
          <span id="fb"> <a href="#"> <i class="fab fa-facebook-square"></i> </a> </span></p>
          <p>
-           <a href="#">A propos de nous </a> -
-           <a href="#">Mentions légales</a>
+           <a class="font-weight-bold" href="#">A propos de nous </a> -
+           <a class="font-weight-bold" href="#">Mentions légales</a>
          </p>
   </div>
 </div>
