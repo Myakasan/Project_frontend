@@ -10,7 +10,8 @@
   <div class="col">
     <h3>Contactez-Nous !</h3>
     <p><i class="fas fa-envelope"></i> Mail: <a href="mailto:contact@l33tshopping.com?subject=feedback">contact@l33tshopping.com</a> <br>
-      <i class="fas fa-mobile-alt"></i> Phone:+33 (0)6 12 34 56 78
+      <i class="fas fa-mobile-alt"></i> Phone: +33 (0)6 12 34 56 78 <br>
+      <i class="fas fa-fax"> </i> Fax: +33 (0)4 77 12 34 56
     </p>
   </div>
 
