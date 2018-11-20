@@ -12,11 +12,12 @@
       téléphone :+33 (0)6 12 34 56 78
     </p>
   </div>
+
   <div class="col">
-    <p>
-      <a href="#">A propos de nous</a> <br>
-      <a href="#">Mentions légales</a>
-    </p>
+    <h3>Suivez nous sur les réseaux zozio :</h3>
+    <p> <span id="twitter"> <a href="#"> <i class="fab fa-twitter"></i> </a> </span>
+         <span id="insta"><a href="#"> <i class="fab fa-instagram"></i> </a> </span>
+         <span id="fb"> <a href="#"> <i class="fab fa-facebook-square"></i> </a> </span></p>
   </div>
 </div>
 
@@ -25,8 +26,10 @@
     <p>&#169;Copyright by Aloïs Ressort & Etienne Gendron - Since 2018 - 2019</p>
   </div>
   <div class="col">
-    <p> <span id="twitter"> <a href="#"> <i class="fab fa-twitter"></i> </a> </span>
-         <span id="insta"><a href="#"> <i class="fab fa-instagram"></i> </a> </span>
-         <span id="fb"> <a href="#"> <i class="fab fa-facebook-square"></i> </a> </span></p>
+    <p>
+      <a href="#">A propos de nous </a> -
+      <a href="#">Mentions légales</a>
+    </p>
   </div>
+
 </div>

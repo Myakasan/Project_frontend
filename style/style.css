@@ -1,4 +1,4 @@
-/*BITE*/
+
 
 /*GENERAL*/
 * {
@@ -8,6 +8,14 @@
 body {
 margin: 0 auto;
 overflow-x: hidden;
+}
+
+h3{
+  font-size: 20px;
+  font-family: 'Permanent Marker', cursive;
+}
+p{
+  font-family: 'Titillium Web', sans-serif;
 }
 
 /*HEADER*/
@@ -45,9 +53,11 @@ footer div {
   margin: 0 auto;
   align-content: center;
   text-align: center;
+  margin-left: 25px;
 }
 
-footer .col{
+footer .row{
+  margin-bottom: 20px;
 }
 
 .logofoot{
@@ -55,15 +65,15 @@ footer .col{
   max-height: auto;
 }
 
-fab{
+.fab{
   display: inline-block;
-  margin-right: 10px;
+  margin-right: 20px;
 }
 
 #twitter a{
   text-decoration: none;
   color: white;
-  font-size: 34px;
+  font-size: 40px;
 }
 #twitter a:hover{
   color: #f2ff23;
@@ -72,7 +82,7 @@ fab{
 #insta a{
   text-decoration: none;
   color: white;
-  font-size: 34px;
+  font-size: 40px;
 }
 #insta a:hover{
   color: #f2ff23;
@@ -81,7 +91,7 @@ fab{
 #fb a{
   text-decoration: none;
   color: white;
-  font-size: 34px;
+  font-size: 40px;
 }
 #fb a:hover{
   color: #f2ff23;
