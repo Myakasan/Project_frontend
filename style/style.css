@@ -5,7 +5,7 @@
 
 body {
 margin: 0 auto;
-overflow: hidden;
+overflow-x: hidden;
 }
 
 /*HEADER*/
@@ -39,6 +39,11 @@ footer div {
 }
 
 footer .col{
+}
+
+.logofoot{
+  max-width: 100px;
+  max-height: auto;
 }
 
 fab{

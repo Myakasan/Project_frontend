@@ -1,15 +1,15 @@
 <div class="row">
   <div class="col">
-    <img src="#" alt="Logo">
-    <p>l33t Shopping
-      Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor
-      incididunt ut labore et dolore magna aliqua.
+    <img class="logofoot" src="./img/unidead.png" alt="Logo">
+    <p>A la recherche d'un cadeau Original, Insolite et à Tendance Geek ?
+       L33T SH0PPING vous propose depuis plus de 10 ans une large gamme d'articles
+        sous licence pour faire plaisir au Geek ou à la Geekette qui vous entoure.
     </p>
   </div>
   <div class="col">
-    <h3>Contact</h3>
+    <h3>Contactez-Nous !</h3>
     <p><a href="mailto:joe@example.com?subject=feedback">Mail</a> <br>
-      téléphone : 0102030405
+      téléphone :+33 (0)6 12 34 56 78
     </p>
   </div>
   <div class="col">
