@@ -22,8 +22,8 @@
 <div class="grid-article">
 
   <div class="row">
-    <div class="col-4">
-      <form class="form-inline">
+    <div class="col-2">
+      <form class="form-inline-block">
         <label class="my-1 mr-2" for="inlineFormCustomSelectPref">Couleur</label>
         <select class="custom-select my-1 mr-sm-2" id="inlineFormCustomSelectPref">
           <option selected>Couleurs</option>
@@ -40,15 +40,26 @@
           <option value="3">Marque 3</option>
         </select>
 
-
+        <label for="customRange2">Prix Max</label>
+        <input type="range" class="custom-range" min="12" max="30" id="customRange2">
 
         <button type="submit" class="btn btn-primary my-1">Submit</button>
     </div>
 
-    <div class="col-8">
+    <div class="col-10">
 
     </div>
 </div>
+
+<nav aria-label="Page navigation example">
+<ul class="pagination">
+  <li class="page-item"><a class="page-link" href="#">Previous</a></li>
+  <li class="page-item"><a class="page-link" href="#">1</a></li>
+  <li class="page-item"><a class="page-link" href="#">2</a></li>
+  <li class="page-item"><a class="page-link" href="#">3</a></li>
+  <li class="page-item"><a class="page-link" href="#">Next</a></li>
+</ul>
+</nav>
 
   </div>
 
