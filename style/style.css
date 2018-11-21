@@ -76,6 +76,11 @@ a.navbar-brand{
   color: black;
 }
 
+.index-card .card-text{
+  font-style: italic;
+  opacity: 0.8;
+}
+
 
 
 /*FOOTER*/
