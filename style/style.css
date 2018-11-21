@@ -12,6 +12,7 @@ a {
 body {
 margin: 0 auto;
 overflow-x: hidden;
+background-color: #FFF8DC;
 }
 
 h3{
@@ -59,6 +60,7 @@ a.navbar-brand{
   margin-bottom: 2em;
 }
 /*Card*/
+    /*index card est une div englobante*/
 .card-title{
   text-transform: uppercase;
   text-align: center;
@@ -104,7 +106,7 @@ footer div {
 }
 
 footer .row{
-  
+
 }
 
 .logofoot{
@@ -150,4 +152,12 @@ div .col a{
 
 div .col a:hover{
   color: lightcoral;
+}
+
+/*ARTICLE PAGE*/
+
+.page-nav nav{
+  width: auto;
+  margin: 0 auto;
+  margin-top: 2em;
 }
