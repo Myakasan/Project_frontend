@@ -47,7 +47,47 @@
     </div>
 
     <div class="col-10">
+        <div class="row">
+          <div class="col">
+            <div class="card bg-dark text-light" style="width: 18rem;">
+              <img class="card-img-top" src="./img/tee1.jpg" alt="Card image cap">
+              <div class="card-body">
+                <h5 class="card-title">Lord of The Drinks</h5>
+                <p class="card-text">La différence entre une bière et un chasseur, c'est que la bière, ils la font sans alcool...</p>
+                <a href="./page/details.php" class="btn btn-danger">Voir l'article...</a>
+              </div>
+            </div>
+          </div>
 
+          <div class="col">
+            <div class="card bg-dark text-light" style="width: 18rem;">
+              <img class="card-img-top" src="./img/tee2.jpg" alt="Card image cap">
+              <div class="card-body">
+                <h5 class="card-title">Do It 4 Billy</h5>
+                <p class="card-text">Ce que tu fais de valeureux aujourd'hui inspire les actions des autres dans le futur.</p>
+                <a href="#" class="btn btn-danger">Voir l'article...</a>
+              </div>
+            </div>
+          </div>
+          <div class="col">
+            <div class="card bg-dark text-light" style="width: 18rem;">
+              <img class="card-img-top" src="./img/tee3.jpg" alt="Card image cap">
+              <div class="card-body">
+                <h5 class="card-title">Call me Unicorn</h5>
+                <p class="card-text">Dieu existe-t-il ? Qui sait ? Y a-t-il une licorne en colère sur la face cachée de la lune ?</p>
+                <a href="#" class="btn btn-danger">Voir l'article...</a>
+              </div>
+            </div>
+          </div>
+          <div class="col">
+
+          </div>
+          <div class="col">
+
+          </div>
+        </div>
+
+        </div>
     </div>
 </div>
 
