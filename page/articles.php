@@ -19,8 +19,36 @@
     <?php include('../script/navpage.php'); ?>
   </nav>
 
-  <div class="grid-article">
+<div class="grid-article">
 
+  <div class="row">
+    <div class="col-4">
+      <form class="form-inline">
+        <label class="my-1 mr-2" for="inlineFormCustomSelectPref">Couleur</label>
+        <select class="custom-select my-1 mr-sm-2" id="inlineFormCustomSelectPref">
+          <option selected>Couleurs</option>
+          <option value="1">Noir</option>
+          <option value="2">Blanc</option>
+          <option value="3">Rouge</option>
+        </select>
+
+        <label class="my-1 mr-2" for="inlineFormCustomSelectPref">Marques</label>
+        <select class="custom-select my-1 mr-sm-2" id="inlineFormCustomSelectPref">
+          <option selected>Marques</option>
+          <option value="1">Marque 1</option>
+          <option value="2">Marque 2 </option>
+          <option value="3">Marque 3</option>
+        </select>
+
+
+
+        <button type="submit" class="btn btn-primary my-1">Submit</button>
+    </div>
+
+    <div class="col-8">
+
+    </div>
+</div>
 
   </div>
 
