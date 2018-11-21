@@ -15,6 +15,7 @@
     <?php include('../script/headerpage.php'); ?>
   </header>
 
+  
   <nav>
     <?php include('../script/navpage.php'); ?>
   </nav>
