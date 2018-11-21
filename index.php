@@ -93,7 +93,7 @@
   <img class="card-img-top" src="./img/tee4.jpg" alt="Card image cap">
   <div class="card-body">
     <h5 class="card-title">I'll be back !</h5>
-    <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+    <p class="card-text">Toujours par deux ils vont. Ni plus, ni moins. Le maître et son tee-shirt ...</p>
     <a href="#" class="btn btn-danger">Voir l'article...</a>
   </div>
 </div>
@@ -103,7 +103,7 @@
   <img class="card-img-top" src="./img/tee5.jpg" alt="Card image cap">
   <div class="card-body">
     <h5 class="card-title">Level UP !</h5>
-    <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+    <p class="card-text">Moins tu dors plus t'es fort ... Qu'ils disaient...</p>
     <a href="#" class="btn btn-danger">Voir l'article...</a>
   </div>
 </div>
@@ -112,8 +112,8 @@
       <div class="card bg-dark text-light" style="width: 18rem;">
   <img class="card-img-top" src="./img/tee6.jpg" alt="Card image cap">
   <div class="card-body">
-    <h5 class="card-title">Eevee Dreams</h5>
-    <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+    <h5 class="card-title">Eevee's Dream</h5>
+    <p class="card-text">On croit que les rêves, c’est fait pour se réaliser...</p>
     <a href="#" class="btn btn-danger">Voir l'article...</a>
   </div>
 </div>
