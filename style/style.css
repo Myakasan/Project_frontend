@@ -58,6 +58,20 @@ a.navbar-brand{
   margin-top: 2em;
   margin-bottom: 2em;
 }
+/*Card*/
+
+.index-card div{
+  width: auto;
+  margin: 0 auto;
+  align-content: center;
+  text-align: center;
+  margin-top: 1em;
+}
+
+.index-card .btn:hover{
+  color: black;
+}
+
 
 
 /*FOOTER*/
@@ -68,6 +82,7 @@ footer{
   color: white;
   background-color: #343a40;
   padding-top: 15px;
+  margin-top: 2em;
 }
 
 footer div {
