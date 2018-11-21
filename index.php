@@ -58,8 +58,8 @@
   <img class="card-img-top" src="./img/tee1.jpg" alt="Card image cap">
   <div class="card-body">
     <h5 class="card-title">Lord of The Drinks</h5>
-    <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-    <a href="#" class="btn btn-danger">Ajouter au panier !</a>
+    <p class="card-text">La différence entre une bière et un chasseur, c'est que la bière, ils la font sans alcool...</p>
+    <a href="#" class="btn btn-danger">Voir l'article...</a>
   </div>
 </div>
     </div>
@@ -68,8 +68,8 @@
   <img class="card-img-top" src="./img/tee2.jpg" alt="Card image cap">
   <div class="card-body">
     <h5 class="card-title">Do It 4 Billy</h5>
-    <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-    <a href="#" class="btn btn-danger">Ajouter au panier !</a>
+    <p class="card-text">Ce que tu fais de valeureux aujourd'hui inspire les actions des autres dans le futur.</p>
+    <a href="#" class="btn btn-danger">Voir l'article...</a>
   </div>
 </div>
     </div>
@@ -78,8 +78,8 @@
   <img class="card-img-top" src="./img/tee3.jpg" alt="Card image cap">
   <div class="card-body">
     <h5 class="card-title">Call me Unicorn</h5>
-    <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-    <a href="#" class="btn btn-danger">Ajouter au panier !</a>
+    <p class="card-text">Dieu existe-t-il ? Qui sait ? Y a-t-il une licorne en colère sur la face cachée de la lune ?</p>
+    <a href="#" class="btn btn-danger">Voir l'article...</a>
   </div>
 </div>
 </div>
@@ -91,9 +91,9 @@
       <div class="card bg-dark text-light" style="width: 18rem;">
   <img class="card-img-top" src="./img/tee4.jpg" alt="Card image cap">
   <div class="card-body">
-    <h5 class="card-title">Card title</h5>
+    <h5 class="card-title">I'll be back !</h5>
     <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-    <a href="#" class="btn btn-danger">Ajouter au panier !</a>
+    <a href="#" class="btn btn-danger">Voir l'article...</a>
   </div>
 </div>
     </div>
@@ -101,9 +101,9 @@
       <div class="card bg-dark text-light" style="width: 18rem;">
   <img class="card-img-top" src="./img/tee5.jpg" alt="Card image cap">
   <div class="card-body">
-    <h5 class="card-title">Card title</h5>
+    <h5 class="card-title">Level UP !</h5>
     <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-    <a href="#" class="btn btn-danger">Ajouter au panier !</a>
+    <a href="#" class="btn btn-danger">Voir l'article...</a>
   </div>
 </div>
     </div>
@@ -111,9 +111,9 @@
       <div class="card bg-dark text-light" style="width: 18rem;">
   <img class="card-img-top" src="./img/tee6.jpg" alt="Card image cap">
   <div class="card-body">
-    <h5 class="card-title">Card title</h5>
+    <h5 class="card-title">Eevee Dreams</h5>
     <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-    <a href="#" class="btn btn-danger">Ajouter au panier !</a>
+    <a href="#" class="btn btn-danger">Voir l'article...</a>
   </div>
 </div>
     </div>
