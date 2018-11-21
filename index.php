@@ -55,31 +55,31 @@
   <div class="row">
     <div class="col">
       <div class="card bg-dark text-light" style="width: 18rem;">
-  <img class="card-img-top" src=".../100px180/" alt="Card image cap">
+  <img class="card-img-top" src="./img/tee1.jpg" alt="Card image cap">
   <div class="card-body">
-    <h5 class="card-title">Card title</h5>
+    <h5 class="card-title">Lord of The Drinks</h5>
     <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-    <a href="#" class="btn btn-danger">Go somewhere</a>
+    <a href="#" class="btn btn-danger">Ajouter au panier !</a>
   </div>
 </div>
     </div>
     <div class="col">
       <div class="card bg-dark text-light" style="width: 18rem;">
-  <img class="card-img-top" src=".../100px180/" alt="Card image cap">
+  <img class="card-img-top" src="./img/tee2.jpg" alt="Card image cap">
   <div class="card-body">
-    <h5 class="card-title">Card title</h5>
+    <h5 class="card-title">Do It 4 Billy</h5>
     <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-    <a href="#" class="btn btn-danger">Go somewhere</a>
+    <a href="#" class="btn btn-danger">Ajouter au panier !</a>
   </div>
 </div>
     </div>
     <div class="col">
       <div class="card bg-dark text-light" style="width: 18rem;">
-  <img class="card-img-top" src=".../100px180/" alt="Card image cap">
+  <img class="card-img-top" src="./img/tee3.jpg" alt="Card image cap">
   <div class="card-body">
-    <h5 class="card-title">Card title</h5>
+    <h5 class="card-title">Call me Unicorn</h5>
     <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-    <a href="#" class="btn btn-danger">Go somewhere</a>
+    <a href="#" class="btn btn-danger">Ajouter au panier !</a>
   </div>
 </div>
 </div>
@@ -89,31 +89,31 @@
   <div class="row">
     <div class="col">
       <div class="card bg-dark text-light" style="width: 18rem;">
-  <img class="card-img-top" src=".../100px180/" alt="Card image cap">
+  <img class="card-img-top" src="./img/tee4.jpg" alt="Card image cap">
   <div class="card-body">
     <h5 class="card-title">Card title</h5>
     <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-    <a href="#" class="btn btn-danger">Go somewhere</a>
+    <a href="#" class="btn btn-danger">Ajouter au panier !</a>
   </div>
 </div>
     </div>
     <div class="col">
       <div class="card bg-dark text-light" style="width: 18rem;">
-  <img class="card-img-top" src=".../100px180/" alt="Card image cap">
+  <img class="card-img-top" src="./img/tee5.jpg" alt="Card image cap">
   <div class="card-body">
     <h5 class="card-title">Card title</h5>
     <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-    <a href="#" class="btn btn-danger">Go somewhere</a>
+    <a href="#" class="btn btn-danger">Ajouter au panier !</a>
   </div>
 </div>
     </div>
     <div class="col">
       <div class="card bg-dark text-light" style="width: 18rem;">
-  <img class="card-img-top" src=".../100px180/" alt="Card image cap">
+  <img class="card-img-top" src="./img/tee6.jpg" alt="Card image cap">
   <div class="card-body">
     <h5 class="card-title">Card title</h5>
     <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-    <a href="#" class="btn btn-danger">Go somewhere</a>
+    <a href="#" class="btn btn-danger">Ajouter au panier !</a>
   </div>
 </div>
     </div>
