@@ -28,10 +28,32 @@
     </ol>
   </nav>
   <hr>
-
   <div class="article-details">
+    <div class="container">
+  <div class="row">
+    <div class="col">
+      <img class="border border-danger rounded" src="../img/tee1.jpg" alt="">
+    </div>
+    <div class="col">
+      One of three columns
+    </div>
+    <div class="col">
+      One of three columns
+    </div>
+  </div>
 
-
+  <div class="row">
+    <div class="col">
+      One of three columns
+    </div>
+    <div class="col">
+      One of three columns
+    </div>
+    <div class="col">
+      One of three columns
+    </div>
+  </div>
+  </div>
   </div>
 
 
