@@ -46,8 +46,9 @@
         <button type="submit" class="btn btn-primary my-1">Submit</button>
     </div>
 
-    <div class="col-10">
+    <div class="index-card col-10">
         <div class="row">
+
           <div class="col">
             <div class="card bg-dark text-light" style="width: 18rem;">
               <img class="card-img-top" src="../img/tee1.jpg" alt="Card image cap">
@@ -69,6 +70,7 @@
               </div>
             </div>
           </div>
+
           <div class="col">
             <div class="card bg-dark text-light" style="width: 18rem;">
               <img class="card-img-top" src="../img/tee3.jpg" alt="Card image cap">
@@ -79,29 +81,125 @@
               </div>
             </div>
           </div>
+
           <div class="col">
-
+            <div class="card bg-dark text-light" style="width: 18rem;">
+              <img class="card-img-top" src="../img/tee4.jpg" alt="Card image cap">
+              <div class="card-body">
+                <h5 class="card-title">I'll be back !</h5>
+                <p class="card-text">Toujours par deux ils vont. Ni plus, ni moins. Le maître et son tee-shirt ...</p>
+                <a href="#" class="btn btn-danger">Voir l'article...</a>
+              </div>
+            </div>
           </div>
+
           <div class="col">
-
+            <div class="card bg-dark text-light" style="width: 18rem;">
+              <img class="card-img-top" src="../img/tee5.jpg" alt="Card image cap">
+              <div class="card-body">
+                <h5 class="card-title">Level UP !</h5>
+                <p class="card-text">Moins tu dors plus t'es fort ... Qu'ils disaient...</p>
+                <a href="#" class="btn btn-danger">Voir l'article...</a>
+              </div>
+            </div>
           </div>
-        </div>
 
-        </div>
+          <div class="col">
+            <div class="card bg-dark text-light" style="width: 18rem;">
+              <img class="card-img-top" src="../img/tee6.jpg" alt="Card image cap">
+              <div class="card-body">
+                <h5 class="card-title">Eevee's Dream</h5>
+                <p class="card-text">On croit que les rêves, c’est fait pour se réaliser...</p>
+                <a href="#" class="btn btn-danger">Voir l'article...</a>
+              </div>
+            </div>
+          </div>
+
+          <div class="col">
+            <div class="card bg-dark text-light" style="width: 18rem;">
+              <img class="card-img-top" src="../img/tee1.jpg" alt="Card image cap">
+              <div class="card-body">
+                <h5 class="card-title">Lord of The Drinks</h5>
+                <p class="card-text">La différence entre une bière et un chasseur, c'est que la bière, ils la font sans alcool...</p>
+                <a href="./page/details.php" class="btn btn-danger">Voir l'article...</a>
+              </div>
+            </div>
+          </div>
+
+          <div class="col">
+            <div class="card bg-dark text-light" style="width: 18rem;">
+              <img class="card-img-top" src="../img/tee2.jpg" alt="Card image cap">
+              <div class="card-body">
+                <h5 class="card-title">Do It 4 Billy</h5>
+                <p class="card-text">Ce que tu fais de valeureux aujourd'hui inspire les actions des autres dans le futur.</p>
+                <a href="#" class="btn btn-danger">Voir l'article...</a>
+              </div>
+            </div>
+          </div>
+
+          <div class="col">
+            <div class="card bg-dark text-light" style="width: 18rem;">
+              <img class="card-img-top" src="../img/tee3.jpg" alt="Card image cap">
+              <div class="card-body">
+                <h5 class="card-title">Call me Unicorn</h5>
+                <p class="card-text">Dieu existe-t-il ? Qui sait ? Y a-t-il une licorne en colère sur la face cachée de la lune ?</p>
+                <a href="#" class="btn btn-danger">Voir l'article...</a>
+              </div>
+            </div>
+          </div>
+
+          <div class="col">
+            <div class="card bg-dark text-light" style="width: 18rem;">
+              <img class="card-img-top" src="../img/tee4.jpg" alt="Card image cap">
+              <div class="card-body">
+                <h5 class="card-title">I'll be back !</h5>
+                <p class="card-text">Toujours par deux ils vont. Ni plus, ni moins. Le maître et son tee-shirt ...</p>
+                <a href="#" class="btn btn-danger">Voir l'article...</a>
+              </div>
+            </div>
+          </div>
+
+          <div class="col">
+            <div class="card bg-dark text-light" style="width: 18rem;">
+              <img class="card-img-top" src="../img/tee5.jpg" alt="Card image cap">
+              <div class="card-body">
+                <h5 class="card-title">Level UP !</h5>
+                <p class="card-text">Moins tu dors plus t'es fort ... Qu'ils disaient...</p>
+                <a href="#" class="btn btn-danger">Voir l'article...</a>
+              </div>
+            </div>
+          </div>
+
+          <div class="col">
+            <div class="card bg-dark text-light" style="width: 18rem;">
+              <img class="card-img-top" src="../img/tee6.jpg" alt="Card image cap">
+              <div class="card-body">
+                <h5 class="card-title">Eevee's Dream</h5>
+                <p class="card-text">On croit que les rêves, c’est fait pour se réaliser...</p>
+                <a href="#" class="btn btn-danger">Voir l'article...</a>
+              </div>
+            </div>
+          </div>
+
+
+      </div>
     </div>
+  </div>
+
+<div class="page-nav">
+  <nav aria-label="Page navigation example">
+  <ul class="pagination">
+    <li class="page-item"><a class="page-link" href="#">Previous</a></li>
+    <li class="page-item"><a class="page-link" href="#">1</a></li>
+    <li class="page-item"><a class="page-link" href="#">2</a></li>
+    <li class="page-item"><a class="page-link" href="#">3</a></li>
+    <li class="page-item"><a class="page-link" href="#">Next</a></li>
+  </ul>
+  </nav>
 </div>
 
-<nav aria-label="Page navigation example">
-<ul class="pagination">
-  <li class="page-item"><a class="page-link" href="#">Previous</a></li>
-  <li class="page-item"><a class="page-link" href="#">1</a></li>
-  <li class="page-item"><a class="page-link" href="#">2</a></li>
-  <li class="page-item"><a class="page-link" href="#">3</a></li>
-  <li class="page-item"><a class="page-link" href="#">Next</a></li>
-</ul>
-</nav>
 
-  </div>
+</div>
 
 
 
