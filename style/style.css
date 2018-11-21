@@ -80,7 +80,9 @@ a.navbar-brand{
   font-style: italic;
   opacity: 0.8;
 }
-
+.card-body{
+  padding-top: 0px;
+}
 
 
 /*FOOTER*/
