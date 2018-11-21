@@ -19,7 +19,7 @@
     <?php include('./script/nav.php'); ?>
   </nav>
 
-<hr>
+
   <div class="container">
 
     <div id="carouselExampleIndicators" class="carousel slide" data-ride="carousel">
@@ -52,6 +52,7 @@
 <hr>
 
 <div class="index-card">
+    <h2 class="card-title">à la une pour le black friday !</h2>
   <div class="row">
     <div class="col">
       <div class="card bg-dark text-light" style="width: 18rem;">

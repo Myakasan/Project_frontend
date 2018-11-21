@@ -59,7 +59,11 @@ a.navbar-brand{
   margin-bottom: 2em;
 }
 /*Card*/
-
+.card-title{
+  text-transform: uppercase;
+  text-align: center;
+  font-family: 'Permanent Marker', cursive;
+}
 .index-card div{
   width: auto;
   margin: 0 auto;
@@ -138,5 +142,5 @@ div .col a{
 }
 
 div .col a:hover{
-  color: red;
+  color: lightcoral;
 }
