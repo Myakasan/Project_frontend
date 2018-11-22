@@ -22,7 +22,7 @@
 <div class="grid-article">
 
   <div class="row">
-    <div class="col-2">
+    <div class="col-2 index-card">
       <form class="form-inline-block">
         <label class="my-1 mr-2" for="inlineFormCustomSelectPref">Couleur</label>
         <select class="custom-select my-1 mr-sm-2" id="inlineFormCustomSelectPref">
@@ -189,11 +189,11 @@
 <div class="page-nav">
   <nav aria-label="Page navigation example">
   <ul class="pagination">
-    <li class="page-item"><a class="page-link" href="#">Previous</a></li>
-    <li class="page-item"><a class="page-link" href="#">1</a></li>
-    <li class="page-item"><a class="page-link" href="#">2</a></li>
-    <li class="page-item"><a class="page-link" href="#">3</a></li>
-    <li class="page-item"><a class="page-link" href="#">Next</a></li>
+    <li class="page-item"><a class="page-link bg-danger" href="#">Previous</a></li>
+    <li class="page-item"><a class="page-link bg-danger" href="#">1</a></li>
+    <li class="page-item"><a class="page-link bg-danger" href="#">2</a></li>
+    <li class="page-item"><a class="page-link bg-danger" href="#">3</a></li>
+    <li class="page-item"><a class="page-link bg-danger" href="#">Next</a></li>
   </ul>
   </nav>
 </div>

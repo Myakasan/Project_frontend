@@ -172,8 +172,17 @@ div .col a:hover{
   width: auto;
   border: none;
   margin: 0 auto;
-  margin-left: 2.5em;
+
+
 }
 .btn-primary:hover{
+  color: black;
+}
+
+.page-link{
+  border: none;
+  color: white;
+}
+.page-link:hover{
   color: black;
 }
