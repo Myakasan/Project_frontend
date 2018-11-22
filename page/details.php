@@ -15,7 +15,7 @@
     <?php include('../script/headerpage.php'); ?>
   </header>
 
-  
+
   <nav>
     <?php include('../script/navpage.php'); ?>
   </nav>
@@ -42,7 +42,7 @@
          Un basique à porter en toutes occasions.</p>
       <ul>
         <li>Finitions haut de gamme avec doubles coutures</li>
-        <li>En tailles 3XL et 4XL, seules les couleurs suivantes sont proposées par le fabricant : blanc, noir, bleu marine, rouge et gris chiné</li>
+        <li>En tailles 2XL et 3XL, seules les couleurs suivantes sont proposées par le fabricant : blanc, noir, bleu marine, rouge et gris chiné</li>
         <li>Coupe droite</li>
         <li>Tissu résistant : 185 g/m²</li>
         <li>Composition : 100 % coton (sauf en gris chiné : 85 % coton, 15 % viscose)</li>
@@ -93,27 +93,43 @@
       </div>
       <h3>Choisissez la quantité :</h3>
       <div class="form-group">
-    <select class="form-control" id="exampleFormControlSelect1">
-      <option>1</option>
-      <option>2</option>
-      <option>3</option>
-      <option>4</option>
-      <option>5</option>
-    </select>
-  </div>
+          <select class="form-control" id="exampleFormControlSelect1">
+          <option>1</option>
+          <option>2</option>
+          <option>3</option>
+          <option>4</option>
+          <option>5</option>
+        </select>
+      </div>
+      <h3 style="text-align: center;">Prix : 22 Euros</h3>
   <button type="button" class="btn btn-danger btn-lg btn-block">Ajouter au panier</button>
     </div>
   </div>
-    <h1 class="mb-3" style="text-align: center;">Ces articles pourraient vous intérésser !</h1>
-  <div class="row">
+    <h1 class="mt-3 mb-3" style="text-align: center;">Ces articles pourraient vous intérésser !</h1>
+  <div class="row index-card">
     <div class="col">
-      SUGG
+      <div class="card bg-dark" style="width: 10rem;">
+        <img class="card-img-top" src="../img/tee3.jpg" alt="Card image cap">
+        <div class="card-body">
+          <a href="#" class="btn btn-danger mt-3">Voir l'article...</a>
+        </div>
+      </div>
     </div>
     <div class="col">
-      SUGG
+      <div class="card bg-dark" style="width: 10rem;">
+        <img class="card-img-top" src="../img/tee4.jpg" alt="Card image cap">
+        <div class="card-body">
+          <a href="#" class="btn btn-danger mt-3">Voir l'article...</a>
+        </div>
+      </div>
     </div>
     <div class="col">
-      SUGG
+      <div class="card bg-dark" style="width: 10rem;">
+        <img class="card-img-top" src="../img/tee5.jpg" alt="Card image cap">
+        <div class="card-body">
+          <a href="#" class="btn btn-danger mt-3">Voir l'article...</a>
+        </div>
+      </div>
     </div>
   </div>
   </div>
