@@ -1,72 +1,72 @@
-
-
 /*GENERAL*/
 * {
   text-decoration: none;
 }
 
-a {
-
-}
+a {}
 
 body {
-margin: 0 auto;
-overflow-x: hidden;
-background-color: #FFF8DC;
+  margin: 0 auto;
+  overflow-x: hidden;
+  background-color: #FFF8DC;
 }
 
-h3{
+h3 {
   font-size: 20px;
   font-family: 'Permanent Marker', cursive;
 }
-p{
+
+p {
   font-family: 'Titillium Web', sans-serif;
 }
 
 /*HEADER*/
-header{
+header {
   margin-left: 0;
   margin-right: 0;
   background-color: #f2ff23;
-
 }
 
-a.navbar-brand{
+a.navbar-brand {
   font-family: 'Permanent Marker', cursive;
 }
 
-.nav-link{
+.nav-link {
   font-family: 'Titillium Web', sans-serif;
 }
-.dropdown-item{
+
+.dropdown-item {
   color: white;
   font-family: 'Titillium Web', sans-serif;
 }
-.dropdown-item:hover{
+
+.dropdown-item:hover {
   background-color: black;
   color: white;
 }
+
 .banner {
   margin: 0 auto;
-
 }
 
 /*CAROUSEL*/
-#carouselExampleIndicators{
+#carouselExampleIndicators {
   margin: 0 auto;
   height: 70%;
   width: 70%;
   margin-top: 2em;
   margin-bottom: 2em;
 }
+
 /*Card*/
-    /*index card est une div englobante*/
-.card-title{
+/*index card est une div englobante*/
+.card-title {
   text-transform: uppercase;
   text-align: center;
   font-family: 'Permanent Marker', cursive;
 }
-.index-card div{
+
+.index-card div {
   width: auto;
   margin: 0 auto;
   align-content: center;
@@ -74,22 +74,21 @@ a.navbar-brand{
   margin-top: 1em;
 }
 
-.index-card .btn:hover{
+.index-card .btn:hover {
   color: black;
 }
 
-.index-card .card-text{
+.index-card .card-text {
   font-style: italic;
   opacity: 0.8;
 }
-.card-body{
+
+.card-body {
   padding-top: 0px;
 }
 
-
 /*FOOTER*/
-
-footer{
+footer {
   width: auto;
   margin: 0 auto;
   color: white;
@@ -105,84 +104,94 @@ footer div {
   margin-left: 25px;
 }
 
-footer .row{
+footer .row {}
 
-}
-
-.logofoot{
+.logofoot {
   max-width: 100px;
   max-height: auto;
 }
 
-.fab{
+.fab {
   display: inline-block;
   margin-right: 20px;
 }
 
-#twitter a{
+#twitter a {
   text-decoration: none;
   color: white;
   font-size: 40px;
 }
-#twitter a:hover{
+
+#twitter a:hover {
   color: lightskyblue;
 }
 
-#insta a{
+#insta a {
   text-decoration: none;
   color: white;
   font-size: 40px;
 }
-#insta a:hover{
+
+#insta a:hover {
   color: lightcoral;
 }
 
-#fb a{
+#fb a {
   text-decoration: none;
   color: white;
   font-size: 40px;
 }
-#fb a:hover{
+
+#fb a:hover {
   color: royalblue;
 }
-div .col a{
+
+div .col a {
   text-decoration: none;
   color: white;
 }
 
-div .col a:hover{
+div .col a:hover {
   color: lightcoral;
 }
 
 /*ARTICLE PAGE*/
-
-.page-nav{
+.page-nav {
   width: auto;
   margin: 0 auto;
   margin-top: 2em;
 }
-.form-inline-block{
+
+.form-inline-block {
   width: auto;
   margin: 0 auto;
   margin-top: 2em;
   margin-left: 2em;
 }
 
-.btn-primary{
+.btn-primary {
   width: auto;
   border: none;
   margin: 0 auto;
-
-
 }
-.btn-primary:hover{
+
+.btn-primary:hover {
   color: black;
 }
 
-.page-link{
+.page-link {
   border: none;
   color: white;
+
 }
-.page-link:hover{
+
+.page-link:hover {
   color: black;
+}
+.oskur{
+  width: 100%;
+  text-align: center;
+  position: relative;
+  margin-left: 50%;
+  margin-right: 50%;
 }
