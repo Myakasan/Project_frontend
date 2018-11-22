@@ -102,9 +102,39 @@
         </select>
       </div>
       <h3 style="text-align: center;">Prix : 22 Euros</h3>
-  <button type="button" class="btn btn-danger btn-lg btn-block">Ajouter au panier</button>
+      <!-- MODAL TRIGGER -->
+  <button type="button" class="btn btn-danger btn-lg btn-block" data-toggle="modal" data-target="#modalresume">Ajouter au panier</button>
     </div>
   </div>
+  <!-- MODAL -->
+  <div class="modal fade" id="modalresume" tabindex="-1" role="dialog" aria-labelledby="myModal" aria-hidden="true">
+  <div class="modal-dialog modal-dialog-centered" role="document">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title" id="myModal">Cet article a bien été ajouté</h5>
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+          <span aria-hidden="true">&times;</span>
+        </button>
+      </div>
+      <div class="modal-body index-card">
+        <div class="card bg-dark" style="width: 14rem;">
+          <img class="card-img-top" src="../img/tee1.jpg" alt="Card image cap">
+          <div class="card-body text-white">
+            <h5>Couleur: Noir</h5>
+            <h5>Taille: XL</h5>
+            <h5>Quantité: 3</h5>
+            <h5>Total: 66 Euros TTC</h5>
+          </div>
+        </div>
+      </div>
+      <div class="modal-footer">
+        <button type="button" class="btn btn-secondary" data-dismiss="modal">Continuer vos achats</button>
+        <a href="./panier.php" role="button" class="btn btn-danger">Voir le panier</a>
+      </div>
+    </div>
+  </div>
+</div>
+
     <h1 class="mt-3 mb-3" style="text-align: center;">Ces articles pourraient vous intérésser !</h1>
   <div class="row index-card">
     <div class="col">
