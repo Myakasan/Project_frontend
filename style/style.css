@@ -8,7 +8,7 @@ a {}
 body {
   margin: 0 auto;
   overflow-x: hidden;
-  background-color: #FFF8DC;
+  background-color: #F9F8F9;
 }
 
 h3 {
@@ -210,6 +210,9 @@ div .col a:hover {
   width: 80%;
   margin: 0 auto;
 }
+.monPanierResponsive h1{
+  font-family: 'Permanent Marker', cursive;
+}
 .product-image {
   float: left;
   width: 20%;
@@ -241,7 +244,7 @@ div .col a:hover {
   text-align: right;
 }
 
-/* This is used as the traditional .clearfix class */
+/* Afin de clearfix les classes */
 .group:before, .shopping-cart:before, .column-labels:before, .product:before, .totals-item:before,
 .group:after,
 .shopping-cart:after,
@@ -260,13 +263,13 @@ div .col a:hover {
   zoom: 1;
 }
 
-/* Apply clearfix in a few places */
-/* Apply dollar signs */
+
+/* Ajout du sigle € a la fin des prix */
 .product .product-price:before, .product .product-line-price:before, .totals-value:before {
-  content: '$';
+  content: '€ ';
 }
 
-/* Body/Header stuff */
+/* Body/Header */
 body {
 
   font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, sans-serif;
@@ -285,7 +288,7 @@ label {
   margin-top: -45px;
 }
 
-/* Column headers */
+/* Colonnes headers */
 .column-labels label {
   padding-bottom: 15px;
   margin-bottom: 15px;
@@ -295,7 +298,7 @@ label {
   text-indent: -9999px;
 }
 
-/* Product entries */
+/* Produit */
 .product {
   margin-bottom: 20px;
   padding-bottom: 10px;
@@ -305,7 +308,7 @@ label {
   text-align: center;
 }
 .product .product-image img {
-  width: 100px;
+  width: 120px;
 }
 .product .product-details .product-title {
   margin-right: 20px;
@@ -330,8 +333,31 @@ label {
 .product .remove-product:hover {
   background-color: #a44;
 }
-
-/* Totals section */
+.product .update-product {
+  border: 0;
+  padding: 4px 8px;
+  background-color: #FF7F50;
+  color: #fff;
+  font-family: "HelveticaNeue-Medium", "Helvetica Neue Medium";
+  font-size: 12px;
+  border-radius: 3px;
+}
+.product .update-product:hover {
+  background-color: #D2691E;
+}
+.product .view-product {
+  border: 0;
+  padding: 4px 8px;
+  background-color: #87CEFA;
+  color: #fff;
+  font-family: "HelveticaNeue-Medium", "Helvetica Neue Medium";
+  font-size: 12px;
+  border-radius: 3px;
+}
+.product .view-product:hover {
+  background-color: #4169E1;
+}
+/* Les sections */
 .totals .totals-item {
   float: right;
   clear: both;
@@ -368,7 +394,7 @@ label {
   background-color: #494;
 }
 
-/* Make adjustments for tablet */
+/* Responsivité avec les tablettes */
 @media screen and (max-width: 650px) {
   .shopping-cart {
     margin: 0;
@@ -419,7 +445,7 @@ label {
     width: 70px;
   }
 }
-/* Make more adjustments for phone */
+/* Responsivité Phone */
 @media screen and (max-width: 350px) {
   .product-removal {
     float: right;
