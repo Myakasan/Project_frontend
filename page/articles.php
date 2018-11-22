@@ -43,7 +43,7 @@
         <label for="customRange2">Prix Max</label>
         <input type="range" class="custom-range" min="12" max="30" id="customRange2">
 
-        <button type="submit" class="btn btn-primary my-1">Submit</button>
+        <button type="submit" class="btn btn-primary my-1 bg-danger">Valider</button>
     </div>
 
     <div class="index-card col-10">

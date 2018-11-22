@@ -161,3 +161,19 @@ div .col a:hover{
   margin: 0 auto;
   margin-top: 2em;
 }
+.form-inline-block{
+  width: auto;
+  margin: 0 auto;
+  margin-top: 2em;
+  margin-left: 2em;
+}
+
+.btn-primary{
+  width: auto;
+  border: none;
+  margin: 0 auto;
+  margin-left: 2.5em;
+}
+.btn-primary:hover{
+  color: black;
+}
