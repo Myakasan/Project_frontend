@@ -135,6 +135,10 @@
   </div>
 </div>
 
+<div class="row">
+  COMMENTARY ZONE
+</div>
+
     <h1 class="mt-3 mb-3" style="text-align: center;">Ces articles pourraient vous intérésser !</h1>
   <div class="row index-card">
     <div class="col">
