@@ -206,7 +206,10 @@ div .col a:hover {
 }
 
 /*monJoliePanierResponsive*/
-
+.monPanierResponsive{
+  width: 80%;
+  margin: 0 auto;
+}
 .product-image {
   float: left;
   width: 20%;
@@ -265,7 +268,7 @@ div .col a:hover {
 
 /* Body/Header stuff */
 body {
-  
+
   font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, sans-serif;
   font-weight: 100;
 }
