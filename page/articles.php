@@ -186,18 +186,21 @@
     </div>
   </div>
 
-<div class="page-nav">
-  <nav aria-label="Page navigation example">
-  <ul class="pagination">
-    <li class="page-item"><a class="page-link bg-danger" href="#">Previous</a></li>
-    <li class="page-item"><a class="page-link bg-danger" href="#">1</a></li>
-    <li class="page-item"><a class="page-link bg-danger" href="#">2</a></li>
-    <li class="page-item"><a class="page-link bg-danger" href="#">3</a></li>
-    <li class="page-item"><a class="page-link bg-danger" href="#">Next</a></li>
-  </ul>
-  </nav>
-</div>
-
+  <div class="row">
+    <div class="col">
+      <div class="page-nav">
+        <nav aria-label="Page navigation example">
+          <ul class="pagination">
+            <li class="page-item"><a class="page-link bg-danger" href="#">Previous</a></li>
+            <li class="page-item"><a class="page-link bg-danger" href="#">1</a></li>
+            <li class="page-item"><a class="page-link bg-danger" href="#">2</a></li>
+            <li class="page-item"><a class="page-link bg-danger" href="#">3</a></li>
+            <li class="page-item"><a class="page-link bg-danger" href="#">Next</a></li>
+          </ul>
+        </nav>
+      </div>
+    </div>
+  </div>
 
 </div>
 
