@@ -21,7 +21,7 @@
   </nav>
 
 
-  <footer class="class">
+  <footer>
     <?php include('../script/footerpage.php'); ?>
   </footer>
 

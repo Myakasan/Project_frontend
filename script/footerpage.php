@@ -24,6 +24,8 @@
            <a class="font-weight-bold" href="#">A propos de nous </a> -
            <a class="font-weight-bold" href="#">Mentions légales</a>
          </p>
+         <h3>Moyen de paiement:</h3>
+         <img class="logofoot" src="../img/pay.png" alt="Logo">     
   </div>
 </div>
 

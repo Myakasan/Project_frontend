@@ -73,7 +73,7 @@
 </form>
       </div>
       <div class="modal-footer">
-        <a class="btn btn-outline-primary" href="#" role="button">Vous n'avez pas de compte ?</a>
+        <a class="btn btn-outline-primary" href="./page/register.php" role="button">Vous n'avez pas de compte ?</a>
         <button type="button" class="btn btn-outline-danger" data-dismiss="modal">Annuler</button>
         <button type="button" class="btn btn-outline-success">Se connecter</button>
       </div>
