@@ -82,7 +82,7 @@
 </div>
     </li>
     <li class="nav-item">
-      <a class="nav-link" href="#"><i class="fas fa-shopping-cart"></i> Panier</a>
+      <a class="nav-link" href="./page/panier.php"><i class="fas fa-shopping-cart"></i> Panier</a>
     </li>
     </ul>
 
