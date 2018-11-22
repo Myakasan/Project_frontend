@@ -43,8 +43,35 @@
         </div>
       </li>
       <li class="nav-item">
-        <a class="nav-link" href="#"><i class="fas fa-lock"></i> Connexion</a>
+        <a class="nav-link" data-toggle="modal" data-target="#loginModal"><i class="fas fa-lock"></i> Connexion</a>
       </li>
+      <!-- Modal -->
+<div class="modal fade" id="loginModal" tabindex="-1" role="dialog" aria-labelledby="logmodal" aria-hidden="true">
+  <div class="modal-dialog" role="document">
+    <div class="modal-content bg-dark">
+      <div class="modal-header text-light">
+        <h5 class="modal-title" id="logmodal">Connectez-vous</h5>
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+          <span aria-hidden="true">&times;</span>
+        </button>
+      </div>
+      <div class="modal-body text-light">
+        <form>
+  <div class="form-group">
+    <label for="exampleInputEmail1">Votre adresse mail</label>
+    <input type="email" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp" placeholder="Mail">
+    <small id="emailHelp" class="form-text text-muted">Nous ne le partagerons pas !</small>
+  </div>
+  <div class="form-group">
+    <label for="exampleInputPassword1">Votre mot de passe</label>
+    <input type="password" class="form-control" id="exampleInputPassword1" placeholder="Pass">
+  </div>
+  <div class="form-group form-check">
+    <input type="checkbox" class="form-check-input" id="exampleCheck1">
+    <label class="form-check-label" for="exampleCheck1">Se souvenir de moi</label>
+  </div>
+</form>
+      </div>
     </li>
     <li class="nav-item">
       <a class="nav-link" href="#"><i class="fas fa-shopping-cart"></i> Panier</a>
