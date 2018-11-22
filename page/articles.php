@@ -24,6 +24,8 @@
   <div class="row">
     <div class="col-2 index-card">
       <form class="form-inline-block">
+        <h2 class='filtre'>Filtres</h2>
+        <h4 class="filtre-quote">"Trouves moi un t-shirt jolie du c*l !"</h4>
         <label class="my-1 mr-2" for="inlineFormCustomSelectPref">Couleur</label>
         <select class="custom-select my-1 mr-sm-2" id="inlineFormCustomSelectPref">
           <option selected>Couleurs</option>

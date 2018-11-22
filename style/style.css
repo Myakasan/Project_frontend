@@ -156,6 +156,15 @@ div .col a:hover {
 }
 
 /*ARTICLE PAGE*/
+.filtre {
+  font-family: 'Permanent Marker', cursive;
+  text-align: center;
+}
+.filtre-quote{
+  text-align: center;
+  font-family: 'Titillium Web', sans-serif;
+  font-size: 14px;
+}
 .page-nav {
   width: auto;
   margin: 0 auto;
@@ -182,13 +191,13 @@ div .col a:hover {
 .page-link {
   border: none;
   color: white;
-
 }
 
 .page-link:hover {
   color: black;
 }
-.oskur{
+
+.oskur {
   width: 100%;
   text-align: center;
   position: relative;
