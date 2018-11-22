@@ -72,6 +72,14 @@
   </div>
 </form>
       </div>
+      <div class="modal-footer">
+        <a class="btn btn-outline-primary" href="#" role="button">Vous n'avez pas de compte ?</a>
+        <button type="button" class="btn btn-outline-danger" data-dismiss="modal">Annuler</button>
+        <button type="button" class="btn btn-outline-success">Se connecter</button>
+      </div>
+    </div>
+  </div>
+</div>
     </li>
     <li class="nav-item">
       <a class="nav-link" href="#"><i class="fas fa-shopping-cart"></i> Panier</a>
