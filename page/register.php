@@ -86,10 +86,12 @@
                                <div class="input-group"><span class="input-group-addon"><i class="glyphicon glyphicon-earphone"></i></span><input id="phoneNumber" name="phoneNumber" placeholder="" class="form-control" required="true" value="" type="text"></div>
                             </div>
                          </div>
+                          <button type="submit" class="btn btn-danger btn-lg btn-block">S'ENREGISTRER</button>
                       </fieldset>
                    </form>
                </td>
              </tr>
+
           </tbody>
        </table>
     </div>
