@@ -27,6 +27,7 @@
                 <td colspan="1">
                    <form class="well form-horizontal">
                       <fieldset>
+                        <h3>Veuillez remplir les champs ci-dessous !</h3>
                          <div class="form-group">
                             <label class="col-md-4 control-label">Nom Complet</label>
                             <div class="col-md-8 inputGroupContainer">
