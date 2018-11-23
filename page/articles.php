@@ -57,7 +57,7 @@
               <div class="card-body">
                 <h5 class="card-title">Lord of The Drinks</h5>
                 <p class="card-text">La différence entre une bière et un chasseur, c'est que la bière, ils la font sans alcool...</p>
-                <a href="./page/details.php" class="btn btn-danger">Voir l'article...</a>
+                <a href="./details.php" class="btn btn-danger">Voir l'article...</a>
               </div>
             </div>
           </div>

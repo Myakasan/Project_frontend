@@ -17,7 +17,7 @@
           Homme
         </a>
         <div class="dropdown-menu bg-dark" aria-labelledby="navbarDropdown">
-          <a class="dropdown-item" href="./page/articles.php">T-Shirt</a>
+          <a class="dropdown-item" href="./articles.php">T-Shirt</a>
           <a class="dropdown-item" href="#">Hoodies</a>
           <a class="dropdown-item" href="#">Pantalon</a>
         </div>
